@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.v": "coq",
+        "memory": "cpp",
+        "*.def": "cpp"
+    }
+}
