@@ -1,0 +1,4 @@
+[submodule "wabt-sys/wabt"]
+	path = wabt-sys/wabt
+	url = https://github.com/donald-pinckney/wabt
+	branch = conts
